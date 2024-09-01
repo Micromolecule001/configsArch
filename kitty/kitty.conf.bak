@@ -1,10 +1,9 @@
 # BEGIN_KITTY_THEME
-# Pencil Light
+# Tokyo Night Day
 include current-theme.conf
 # END_KITTY_THEME
-# font_family CaskaydiaMonoNerd
+
 font_size 12.0
-font_weight auto
 
 padding = 5
 
