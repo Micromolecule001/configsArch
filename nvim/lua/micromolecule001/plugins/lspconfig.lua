@@ -8,7 +8,7 @@ return {
       -- Languages
       rust_analyzer = {}, -- Rust
       clangd = {},        -- C, C++
-      tsserver = {},      -- TypeScript, JavaScript
+      ts_ls = {},      -- TypeScript, JavaScript
       pyright = {},       -- Python
       gopls = {},         -- Go
 

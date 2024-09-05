@@ -212,7 +212,7 @@ client.background			#ffffff
 exec --no-startup-id ~/scripts/multiple_monitors.sh
 
 # exec_always feh --bg-fill ~/wallpapers/cloud.jpg ~/wallpapers/cloud2.jpg ~/wallpapers/cloud3.jpg
-exec_always feh --bg-fill ~/wallpapers/gbsqure.png
+exec_always feh --bg-fill ~/.config/wallpapers/gbsqure.png
 exec --no-startup-id picom -b
 
 exec_always "setxkbmap -model pc104 -layout us,ru,ua -variant ,, -option grp:alt_shift_toggle"
