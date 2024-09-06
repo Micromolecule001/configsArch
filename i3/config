@@ -209,7 +209,7 @@ client.placeholder			#000000	 #0c0c0c #ffffff #000000 #0c0c0c
 client.background			#ffffff
 
 # Monitors script
-exec --no-startup-id ~/scripts/multiple_monitors.sh
+exec --no-startup-id ~/.config/scripts/multiple_monitors.sh
 
 # exec_always feh --bg-fill ~/wallpapers/cloud.jpg ~/wallpapers/cloud2.jpg ~/wallpapers/cloud3.jpg
 exec_always feh --bg-fill ~/.config/wallpapers/gbsqure.png
@@ -218,6 +218,6 @@ exec --no-startup-id picom -b
 exec_always "setxkbmap -model pc104 -layout us,ru,ua -variant ,, -option grp:alt_shift_toggle"
 
 # Polybar
-exec_always --no-startup-id ~/scripts/polybar_launching.sh
+exec_always --no-startup-id ~/.config/scripts/polybar_launching.sh
 
 
