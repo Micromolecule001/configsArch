@@ -412,10 +412,10 @@ Vagrantfile            ""
 *.xlsx      📗
 *.XLSX      📗
 *.odt       📘
-*.doc       📘
-*.DOC       📘
-*.docx      📘
-*.DOCX      📘
+*.doc       " "
+*.DOC       " "
+*.docx      " "
+*.DOCX      " "
 *.odp       📕
 *.ppt       📕
 *.PPT       📕
